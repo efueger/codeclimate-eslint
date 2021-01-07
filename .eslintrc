@@ -1,0 +1,16 @@
+{
+  "root": true,
+  "extends": [
+    "will-robinson/browser-esm",
+    "will-robinson/react-jsx"
+  ],
+  "globals": {
+    "SVG": false
+  },
+  "rules": {
+    "no-shadow": ["error", { "allow": [
+      "event",
+      "location"
+    ] }]
+  }
+}
