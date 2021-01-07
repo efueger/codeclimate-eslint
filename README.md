@@ -5,6 +5,7 @@
 [badge]: https://codeclimate.com/github/codeclimate/codeclimate-eslint/badges/gpa.svg
 [repo]: https://codeclimate.com/repos/github/codeclimate-eslint
 
+
 `codeclimate-eslint` is a Code Climate engine that wraps [ESLint][]. You can run
 it on your command line using the Code Climate CLI, or on our hosted analysis
 platform.
